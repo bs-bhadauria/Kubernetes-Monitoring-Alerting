@@ -1,4 +1,4 @@
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/a98534b7-3ea8-43ac-92eb-8607707ebc73" /># Kubernetes Monitoring & Alerting System
+# Kubernetes Monitoring & Alerting System
 
 ### using Prometheus, Grafana & Slack
 
