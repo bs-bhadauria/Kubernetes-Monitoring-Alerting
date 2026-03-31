@@ -190,15 +190,15 @@ Message Displayed in Channel (#alerts)
 
 ### 🔹 Grafana Dashboard
 
-(Add screenshot here)
+![Grafana Dashboard](screenshots/grafana.png)
 
 ### 🔹 Alert Rule (Firing State)
 
-(Add screenshot here)
+![Alert Rule](screenshots/alerts.png)
 
 ### 🔹 Slack Notification
 
-(Add screenshot here)
+![Slack Alert](screenshots/slack.png)
 
 ---
 
